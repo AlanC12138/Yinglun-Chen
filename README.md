@@ -35,4 +35,12 @@ I enjoy tackling complex problems, bridging theory with practical applications, 
 
 📫 **How to Reach Me**  
 - **Email:** [alanchen0705@gmail.com](mailto:alanchen0705@gmail.com)  
-- **LinkedIn:** *Coming Soon*  
+- **LinkedIn:** *Coming Soon*
+
+---
+
+## 🔗 Projects & Repositories
+- [labs](https://github.com/AlanC12138/labs) – unified workspace for experiments and prototypes  
+- (future) [showcase-transformer](#) – neural machine translation  
+- (future) [showcase-crm](#) – Django + Docker CRM system  
+
