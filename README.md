@@ -1,46 +1,39 @@
-# 👋 Hi, I'm Yinglun Chen
+# Hi, I'm Alan (Yinglun) Chen
 
-🎓 **B.Sc. in Computer Science**, University of Toronto (Class of 2025)  
-💡 **Focus Areas:** Artificial Intelligence, Machine Learning, Computer Vision, Backend Development  
-📍 Richmond, BC, Canada  
-
----
-
-## 💼 About Me
-
-I’m a recent Computer Science graduate from the University of Toronto with a strong focus in AI and Machine Learning.  
-My academic and project experience spans from building production-ready web applications to developing advanced AI models for natural language processing, computer vision, and decision-making systems.  
-
-I enjoy tackling complex problems, bridging theory with practical applications, and working on projects that have real-world impact.  
+Full Stack Developer focused on AI systems and backend engineering.
+Currently based in Vancouver, BC.
 
 ---
 
-## 🛠️ Technical Skills
+## What I Build
 
-- **Programming Languages:** Python, Java, C  
-- **AI/ML Frameworks:** PyTorch, NumPy, pandas, Matplotlib  
-- **Web Development:** Django, Docker, REST APIs  
-- **Data & Analysis:** Data preprocessing, visualization, machine learning pipelines  
-- **Tools & Platforms:** Git/GitHub, Linux/Ubuntu, Jupyter Notebook, VS Code  
+Lately I've been working on production-grade AI systems — most recently a full-stack RAG platform for legal document Q&A with hybrid retrieval, cross-encoder reranking, and role-based access control.
+
+My work tends to live at the intersection of LLM integrations, backend APIs, and search infrastructure.
 
 ---
 
-## 🎯 Career Interests
+## Stack
 
-- Machine Learning Engineering  
-- Software Development (Backend / Full-Stack)  
-- AI Research & Applied AI Solutions  
-
----
-
-📫 **How to Reach Me**  
-- **Email:** [alanchen0705@gmail.com](mailto:alanchen0705@gmail.com)  
-- **LinkedIn:** *Coming Soon*
+**Languages:** Python, TypeScript, JavaScript  
+**Backend:** FastAPI, SQLModel, REST APIs, JWT auth  
+**AI/ML:** RAG pipelines, HuggingFace Transformers, vector search, LLM integrations (OpenAI, Ollama)  
+**Search:** Qdrant, BM25, hybrid retrieval, semantic search  
+**Infrastructure:** Docker, Git  
+**Frontend:** React, Vite, Vanilla JS  
 
 ---
 
-## 🔗 Projects & Repositories
-- [labs](https://github.com/AlanC12138/labs) – unified workspace for experiments and prototypes  
-- (future) [showcase-transformer](#) – neural machine translation  
-- (future) [showcase-crm](#) – Django + Docker CRM system  
+## Projects
 
+| Project | Description |
+|---|---|
+| [Law RAG](https://github.com/AlanC12138/Law_RAG) | Full-stack RAG platform for legal Q&A — hybrid BM25 + vector search, RRF fusion, GPT-4o, RBAC |
+| [Summarizer API](https://github.com/AlanC12138/summarizer_api) | FastAPI service wrapping BART-Large for configurable text summarization |
+| [Finance API](https://github.com/AlanC12138/finance_api) | Personal finance REST API — JWT + Argon2, multi-account, transaction tracking, monthly summaries |
+
+---
+
+## Links
+
+[LinkedIn](https://linkedin.com/in/yinglun-chen-329988271) · [Email](mailto:alanchen0705@gmail.com)
